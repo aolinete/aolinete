@@ -1,4 +1,4 @@
-# dl-converter
+# quickhack
 
 DLsiteの表現置き換えをエンコード/デコードするツールです。このツールは非公式であり、DLsite公式とは一切関係ありません。
 
@@ -6,6 +6,6 @@ DLsiteの表現置き換えをエンコード/デコードするツールです�
 
 ## ライセンス
 
-- 変換テーブル以外のソースコート：[MIT](https://github.com/Robot-Inventor/dl-converter/blob/main/LICENSE)
+- 変換テーブル以外のソースコート：[MIT](https://github.com/Robot-Inventor/quickhack/blob/main/LICENSE)
 
-[変換テーブル](https://github.com/Robot-Inventor/dl-converter/blob/main/src/json/table.json)は、DLsiteが発表したお知らせを元に作成されており、その権利はDLsiteに帰属します。
+[変換テーブル](https://github.com/Robot-Inventor/quickhack/blob/main/src/json/table.json)は、DLsiteが発表したお知らせを元に作成されており、その権利はDLsiteに帰属します。
