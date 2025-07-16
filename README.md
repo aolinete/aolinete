@@ -1,4 +1,4 @@
-# check_cisco_ucs
+# aolinete
 
 DLsiteの表現置き換えをエンコード/デコードするツールです。このツールは非公式であり、DLsite公式とは一切関係ありません。
 
